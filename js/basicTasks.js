@@ -28,4 +28,4 @@ console.log( +"Infinity" ); // Infinity (type number) унарный плюс
 
 console.log("Ёжик" > "яблоко"); // false Uniicode А а Б б В в ...
 
-console.log(0 || "" || 2 || undefined || true || falsе);
+console.log(0 || "" || 2 || undefined || true || falsе); // 2
